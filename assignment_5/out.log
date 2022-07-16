@@ -1,0 +1,286 @@
+2022-07-15 12:37:28.132 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:37:28.132 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:37:28.132 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:28.189 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:78 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:82 - Date: 01-2018
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:83 - Calls offered: 16915
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:84 - Abandon after 30s: 2.32%
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:85 - FCR: 86.5%
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:86 - DSAT: 14.2%
+2022-07-15 12:37:28.190 | INFO     | report:log_summary:87 - CSAT: 78.3%
+2022-07-15 12:37:28.192 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:28.192 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:28.193 | INFO     | report:log_promoter_score:95 - Date: 01-2018
+2022-07-15 12:37:28.193 | INFO     | report:log_promoter_score:96 - Base Size: 425
+2022-07-15 12:37:28.193 | INFO     | report:log_promoter_score:97 - Promoters: 256 Good 64.3%
+2022-07-15 12:37:28.193 | INFO     | report:log_promoter_score:102 - Passives: 86 Bad 20.1%
+2022-07-15 12:37:28.193 | INFO     | report:log_promoter_score:107 - Detractors: 86 Bad 20.1%
+2022-07-15 12:37:28.193 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:37:28.194 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:37:28.194 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:37:28.194 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:28.240 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:28.240 | INFO     | report:log_summary:78 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:28.240 | INFO     | report:log_summary:82 - Date: 03-2018
+2022-07-15 12:37:28.240 | INFO     | report:log_summary:83 - Calls offered: 22343
+2022-07-15 12:37:28.240 | INFO     | report:log_summary:84 - Abandon after 30s: 3.05%
+2022-07-15 12:37:28.241 | INFO     | report:log_summary:85 - FCR: 86.0%
+2022-07-15 12:37:28.241 | INFO     | report:log_summary:86 - DSAT: 18.0%
+2022-07-15 12:37:28.241 | INFO     | report:log_summary:87 - CSAT: 74.4%
+2022-07-15 12:37:28.243 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:28.243 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:28.243 | INFO     | report:log_promoter_score:95 - Date: 03-2018
+2022-07-15 12:37:28.243 | INFO     | report:log_promoter_score:96 - Base Size: 508
+2022-07-15 12:37:28.243 | INFO     | report:log_promoter_score:97 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 12:37:28.243 | INFO     | report:log_promoter_score:102 - Passives: 21 Bad 17.1%
+2022-07-15 12:37:28.243 | INFO     | report:log_promoter_score:107 - Detractors: 33 Bad 26.8%
+2022-07-15 12:37:28.244 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 28.74%
+2022-07-15 12:37:28.244 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 74.4%
+2022-07-15 12:37:28.244 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 18.0%
+2022-07-15 17:04:03.726 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 17:04:03.727 | DEBUG    | report:load_filenames:37 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 17:04:03.727 | DEBUG    | report:load_sheets:41 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:04:03.785 | DEBUG    | report:load_sheets:46 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:04:03.785 | INFO     | report:log_summary:80 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:04:03.786 | INFO     | report:log_summary:84 - Date: 01-2018
+2022-07-15 17:04:03.786 | INFO     | report:log_summary:85 - Calls offered: 16915
+2022-07-15 17:04:03.786 | INFO     | report:log_summary:86 - Abandon after 30s: 2.32%
+2022-07-15 17:04:03.786 | INFO     | report:log_summary:87 - FCR: 86.5%
+2022-07-15 17:04:03.786 | INFO     | report:log_summary:88 - DSAT: 14.2%
+2022-07-15 17:04:03.786 | INFO     | report:log_summary:89 - CSAT: 78.3%
+2022-07-15 17:04:03.788 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:04:03.788 | INFO     | report:log_promoter_score:93 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:97 - Date: 01-2018
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:98 - Base Size: 425
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:99 - Promoters: 256 Good 64.3%
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:104 - Passives: 86 Bad 20.1%
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:109 - Detractors: 86 Bad 20.1%
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:115 - Overall NPS: AARP Total 39.7%
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:116 - Sat with Agent: AARP Total 78.3%
+2022-07-15 17:04:03.789 | INFO     | report:log_promoter_score:117 - DSat with Agent: AARP Total 14.2%
+2022-07-15 17:04:03.789 | DEBUG    | report:load_sheets:41 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:04:03.842 | DEBUG    | report:load_sheets:46 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:80 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:84 - Date: 03-2018
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:85 - Calls offered: 22343
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:86 - Abandon after 30s: 3.05%
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:87 - FCR: 86.0%
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:88 - DSAT: 18.0%
+2022-07-15 17:04:03.843 | INFO     | report:log_summary:89 - CSAT: 74.4%
+2022-07-15 17:04:03.846 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:04:03.846 | INFO     | report:log_promoter_score:93 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:04:03.847 | INFO     | report:log_promoter_score:97 - Date: 03-2018
+2022-07-15 17:04:03.847 | INFO     | report:log_promoter_score:98 - Base Size: 508
+2022-07-15 17:04:03.847 | INFO     | report:log_promoter_score:99 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 17:04:03.847 | INFO     | report:log_promoter_score:104 - Passives: 21 Bad 17.1%
+2022-07-15 17:04:03.847 | INFO     | report:log_promoter_score:109 - Detractors: 33 Bad 26.8%
+2022-07-15 17:04:03.848 | INFO     | report:log_promoter_score:115 - Overall NPS: AARP Total 28.74%
+2022-07-15 17:04:03.848 | INFO     | report:log_promoter_score:116 - Sat with Agent: AARP Total 74.4%
+2022-07-15 17:04:03.848 | INFO     | report:log_promoter_score:117 - DSat with Agent: AARP Total 18.0%
+2022-07-15 17:04:22.316 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: fsajfsdlkjf
+2022-07-15 17:04:22.316 | ERROR    | report:load_filenames:31 - OS error: [Errno 2] No such file or directory: 'fsajfsdlkjf'
+2022-07-15 17:04:49.566 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: 9
+2022-07-15 17:04:49.566 | ERROR    | report:load_filenames:26 - Type of dir path must be a string: 9
+2022-07-15 17:06:01.551 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: 9
+2022-07-15 17:06:01.551 | ERROR    | report:load_filenames:27 - Type of directory path must be a string: 9
+2022-07-15 17:06:07.907 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 17:06:07.907 | DEBUG    | report:load_filenames:37 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 17:06:07.908 | DEBUG    | report:load_sheets:41 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:06:07.975 | DEBUG    | report:load_sheets:46 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:06:07.975 | INFO     | report:log_summary:80 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:06:07.975 | INFO     | report:log_summary:84 - Date: 01-2018
+2022-07-15 17:06:07.975 | INFO     | report:log_summary:85 - Calls offered: 16915
+2022-07-15 17:06:07.975 | INFO     | report:log_summary:86 - Abandon after 30s: 2.32%
+2022-07-15 17:06:07.975 | INFO     | report:log_summary:87 - FCR: 86.5%
+2022-07-15 17:06:07.976 | INFO     | report:log_summary:88 - DSAT: 14.2%
+2022-07-15 17:06:07.976 | INFO     | report:log_summary:89 - CSAT: 78.3%
+2022-07-15 17:06:07.977 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:06:07.977 | INFO     | report:log_promoter_score:93 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:06:07.978 | INFO     | report:log_promoter_score:97 - Date: 01-2018
+2022-07-15 17:06:07.978 | INFO     | report:log_promoter_score:98 - Base Size: 425
+2022-07-15 17:06:07.978 | INFO     | report:log_promoter_score:99 - Promoters: 256 Good 64.3%
+2022-07-15 17:06:07.978 | INFO     | report:log_promoter_score:104 - Passives: 86 Bad 20.1%
+2022-07-15 17:06:07.979 | INFO     | report:log_promoter_score:109 - Detractors: 86 Bad 20.1%
+2022-07-15 17:06:07.979 | INFO     | report:log_promoter_score:115 - Overall NPS: AARP Total 39.7%
+2022-07-15 17:06:07.979 | INFO     | report:log_promoter_score:116 - Sat with Agent: AARP Total 78.3%
+2022-07-15 17:06:07.979 | INFO     | report:log_promoter_score:117 - DSat with Agent: AARP Total 14.2%
+2022-07-15 17:06:07.979 | DEBUG    | report:load_sheets:41 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:06:08.025 | DEBUG    | report:load_sheets:46 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:06:08.025 | INFO     | report:log_summary:80 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:06:08.026 | INFO     | report:log_summary:84 - Date: 03-2018
+2022-07-15 17:06:08.026 | INFO     | report:log_summary:85 - Calls offered: 22343
+2022-07-15 17:06:08.026 | INFO     | report:log_summary:86 - Abandon after 30s: 3.05%
+2022-07-15 17:06:08.026 | INFO     | report:log_summary:87 - FCR: 86.0%
+2022-07-15 17:06:08.026 | INFO     | report:log_summary:88 - DSAT: 18.0%
+2022-07-15 17:06:08.026 | INFO     | report:log_summary:89 - CSAT: 74.4%
+2022-07-15 17:06:08.028 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:06:08.028 | INFO     | report:log_promoter_score:93 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:97 - Date: 03-2018
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:98 - Base Size: 508
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:99 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:104 - Passives: 21 Bad 17.1%
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:109 - Detractors: 33 Bad 26.8%
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:115 - Overall NPS: AARP Total 28.74%
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:116 - Sat with Agent: AARP Total 74.4%
+2022-07-15 17:06:08.029 | INFO     | report:log_promoter_score:117 - DSat with Agent: AARP Total 18.0%
+2022-07-15 17:11:54.753 | DEBUG    | report:load_filenames:20 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 17:11:54.753 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 17:11:54.753 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:11:54.816 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:11:54.816 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:11:54.816 | INFO     | report:log_summary:83 - Date: 01-2018
+2022-07-15 17:11:54.817 | INFO     | report:log_summary:84 - Calls offered: 16915
+2022-07-15 17:11:54.817 | INFO     | report:log_summary:85 - Abandon after 30s: 2.32%
+2022-07-15 17:11:54.817 | INFO     | report:log_summary:86 - FCR: 86.5%
+2022-07-15 17:11:54.817 | INFO     | report:log_summary:87 - DSAT: 14.2%
+2022-07-15 17:11:54.817 | INFO     | report:log_summary:88 - CSAT: 78.3%
+2022-07-15 17:11:54.819 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:11:54.819 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:96 - Date: 01-2018
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:97 - Base Size: 425
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:98 - Promoters: 256 Good 64.3%
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:103 - Passives: 86 Bad 20.1%
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:108 - Detractors: 86 Bad 20.1%
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 39.7%
+2022-07-15 17:11:54.820 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 78.3%
+2022-07-15 17:11:54.821 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 14.2%
+2022-07-15 17:11:54.821 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:11:54.873 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:11:54.873 | INFO     | report:log_summary:79 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:11:54.873 | INFO     | report:log_summary:83 - Date: 03-2018
+2022-07-15 17:11:54.873 | INFO     | report:log_summary:84 - Calls offered: 22343
+2022-07-15 17:11:54.873 | INFO     | report:log_summary:85 - Abandon after 30s: 3.05%
+2022-07-15 17:11:54.874 | INFO     | report:log_summary:86 - FCR: 86.0%
+2022-07-15 17:11:54.874 | INFO     | report:log_summary:87 - DSAT: 18.0%
+2022-07-15 17:11:54.874 | INFO     | report:log_summary:88 - CSAT: 74.4%
+2022-07-15 17:11:54.876 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:11:54.876 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:96 - Date: 03-2018
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:97 - Base Size: 508
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:98 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:103 - Passives: 21 Bad 17.1%
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:108 - Detractors: 33 Bad 26.8%
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 28.74%
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 74.4%
+2022-07-15 17:11:54.877 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 18.0%
+2022-07-15 17:13:57.370 | DEBUG    | report:load_filenames:20 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 17:13:57.370 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 17:13:57.371 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:13:57.441 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:13:57.441 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:13:57.441 | INFO     | report:log_summary:83 - Date: 01-2018
+2022-07-15 17:13:57.441 | INFO     | report:log_summary:84 - Calls offered: 16915
+2022-07-15 17:13:57.441 | INFO     | report:log_summary:85 - Abandon after 30s: 2.32%
+2022-07-15 17:13:57.442 | INFO     | report:log_summary:86 - FCR: 86.5%
+2022-07-15 17:13:57.442 | INFO     | report:log_summary:87 - DSAT: 14.2%
+2022-07-15 17:13:57.442 | INFO     | report:log_summary:88 - CSAT: 78.3%
+2022-07-15 17:13:57.444 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:13:57.444 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:13:57.444 | INFO     | report:log_promoter_score:96 - Date: 01-2018
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:97 - Base Size: 425
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:98 - Promoters: 256 Good 64.3%
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:103 - Passives: 86 Bad 20.1%
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:108 - Detractors: 86 Bad 20.1%
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 39.7%
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 78.3%
+2022-07-15 17:13:57.445 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 14.2%
+2022-07-15 17:13:57.445 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:13:57.496 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:79 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:83 - Date: 03-2018
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:84 - Calls offered: 22343
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:85 - Abandon after 30s: 3.05%
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:86 - FCR: 86.0%
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:87 - DSAT: 18.0%
+2022-07-15 17:13:57.497 | INFO     | report:log_summary:88 - CSAT: 74.4%
+2022-07-15 17:13:57.500 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:96 - Date: 03-2018
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:97 - Base Size: 508
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:98 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:103 - Passives: 21 Bad 17.1%
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:108 - Detractors: 33 Bad 26.8%
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 28.74%
+2022-07-15 17:13:57.500 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 74.4%
+2022-07-15 17:13:57.501 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 18.0%
+2022-07-15 17:19:04.119 | DEBUG    | report:load_filenames:20 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 17:19:04.119 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 17:19:04.119 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:04.180 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:04.180 | INFO     | report:log_summary:89 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:04.180 | INFO     | report:log_summary:93 - Date: 01-2018
+2022-07-15 17:19:04.180 | INFO     | report:log_summary:94 - Calls offered: 16915
+2022-07-15 17:19:04.180 | INFO     | report:log_summary:95 - Abandon after 30s: 2.32%
+2022-07-15 17:19:04.180 | INFO     | report:log_summary:96 - FCR: 86.5%
+2022-07-15 17:19:04.181 | INFO     | report:log_summary:97 - DSAT: 14.2%
+2022-07-15 17:19:04.181 | INFO     | report:log_summary:98 - CSAT: 78.3%
+2022-07-15 17:19:04.182 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:04.183 | INFO     | report:log_promoter_score:102 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:04.183 | INFO     | report:log_promoter_score:106 - Date: 01-2018
+2022-07-15 17:19:04.183 | INFO     | report:log_promoter_score:107 - Base Size: 425
+2022-07-15 17:19:04.184 | INFO     | report:log_promoter_score:108 - Promoters: 256 Good 64.3%
+2022-07-15 17:19:04.184 | INFO     | report:log_promoter_score:113 - Passives: 86 Bad 20.1%
+2022-07-15 17:19:04.184 | INFO     | report:log_promoter_score:118 - Detractors: 86 Bad 20.1%
+2022-07-15 17:19:04.184 | INFO     | report:log_promoter_score:124 - Overall NPS: AARP Total 39.7%
+2022-07-15 17:19:04.184 | INFO     | report:log_promoter_score:125 - Sat with Agent: AARP Total 78.3%
+2022-07-15 17:19:04.184 | INFO     | report:log_promoter_score:126 - DSat with Agent: AARP Total 14.2%
+2022-07-15 17:19:04.184 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:04.233 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:04.233 | INFO     | report:log_summary:89 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:04.234 | INFO     | report:log_summary:93 - Date: 03-2018
+2022-07-15 17:19:04.234 | INFO     | report:log_summary:94 - Calls offered: 22343
+2022-07-15 17:19:04.234 | INFO     | report:log_summary:95 - Abandon after 30s: 3.05%
+2022-07-15 17:19:04.234 | INFO     | report:log_summary:96 - FCR: 86.0%
+2022-07-15 17:19:04.234 | INFO     | report:log_summary:97 - DSAT: 18.0%
+2022-07-15 17:19:04.234 | INFO     | report:log_summary:98 - CSAT: 74.4%
+2022-07-15 17:19:04.236 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:102 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:106 - Date: 03-2018
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:107 - Base Size: 508
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:108 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:113 - Passives: 21 Bad 17.1%
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:118 - Detractors: 33 Bad 26.8%
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:124 - Overall NPS: AARP Total 28.74%
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:125 - Sat with Agent: AARP Total 74.4%
+2022-07-15 17:19:04.237 | INFO     | report:log_promoter_score:126 - DSat with Agent: AARP Total 18.0%
+2022-07-15 17:19:35.482 | DEBUG    | report:load_filenames:20 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 17:19:35.482 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 17:19:35.482 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:35.546 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:35.546 | INFO     | report:log_summary:89 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:35.546 | INFO     | report:log_summary:93 - Date: 01-2018
+2022-07-15 17:19:35.546 | INFO     | report:log_summary:94 - Calls offered: 16915
+2022-07-15 17:19:35.546 | INFO     | report:log_summary:95 - Abandon after 30s: 2.32%
+2022-07-15 17:19:35.546 | INFO     | report:log_summary:96 - FCR: 86.5%
+2022-07-15 17:19:35.547 | INFO     | report:log_summary:97 - DSAT: 14.2%
+2022-07-15 17:19:35.547 | INFO     | report:log_summary:98 - CSAT: 78.3%
+2022-07-15 17:19:35.548 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:35.548 | INFO     | report:log_promoter_score:102 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 17:19:35.549 | INFO     | report:log_promoter_score:106 - Date: 01-2018
+2022-07-15 17:19:35.549 | INFO     | report:log_promoter_score:107 - Base Size: 425
+2022-07-15 17:19:35.549 | INFO     | report:log_promoter_score:108 - Promoters: 256 Good 64.3%
+2022-07-15 17:19:35.550 | INFO     | report:log_promoter_score:113 - Passives: 86 Bad 20.1%
+2022-07-15 17:19:35.550 | INFO     | report:log_promoter_score:118 - Detractors: 86 Bad 20.1%
+2022-07-15 17:19:35.550 | INFO     | report:log_promoter_score:124 - Overall NPS: AARP Total 39.7%
+2022-07-15 17:19:35.550 | INFO     | report:log_promoter_score:125 - Sat with Agent: AARP Total 78.3%
+2022-07-15 17:19:35.550 | INFO     | report:log_promoter_score:126 - DSat with Agent: AARP Total 14.2%
+2022-07-15 17:19:35.550 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:35.602 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:35.602 | INFO     | report:log_summary:89 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:35.602 | INFO     | report:log_summary:93 - Date: 03-2018
+2022-07-15 17:19:35.603 | INFO     | report:log_summary:94 - Calls offered: 22343
+2022-07-15 17:19:35.603 | INFO     | report:log_summary:95 - Abandon after 30s: 3.05%
+2022-07-15 17:19:35.603 | INFO     | report:log_summary:96 - FCR: 86.0%
+2022-07-15 17:19:35.603 | INFO     | report:log_summary:97 - DSAT: 18.0%
+2022-07-15 17:19:35.603 | INFO     | report:log_summary:98 - CSAT: 74.4%
+2022-07-15 17:19:35.605 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:35.605 | INFO     | report:log_promoter_score:102 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:106 - Date: 03-2018
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:107 - Base Size: 508
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:108 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:113 - Passives: 21 Bad 17.1%
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:118 - Detractors: 33 Bad 26.8%
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:124 - Overall NPS: AARP Total 28.74%
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:125 - Sat with Agent: AARP Total 74.4%
+2022-07-15 17:19:35.606 | INFO     | report:log_promoter_score:126 - DSat with Agent: AARP Total 18.0%

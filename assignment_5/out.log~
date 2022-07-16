@@ -1,0 +1,1371 @@
+2022-07-15 10:42:17.460 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: 9
+2022-07-15 10:43:10.533 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: 9
+2022-07-15 10:43:10.534 | ERROR    | report:load_filenames:22 - Type of dir path must be a string: 9
+2022-07-15 10:43:21.212 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:43:21.212 | DEBUG    | report:load_filenames:31 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:43:47.498 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:43:47.498 | DEBUG    | report:load_filenames:33 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:43:56.778 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: 9
+2022-07-15 10:43:56.778 | ERROR    | report:load_filenames:22 - Type of dir path must be a string: 9
+2022-07-15 10:44:05.664 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:44:05.665 | DEBUG    | report:load_filenames:31 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:44:09.774 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: 9
+2022-07-15 10:44:09.774 | ERROR    | report:load_filenames:22 - Type of dir path must be a string: 9
+2022-07-15 10:44:20.680 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: 9
+2022-07-15 10:44:20.680 | ERROR    | report:load_filenames:22 - Type of dir path must be a string: 9
+2022-07-15 10:47:29.882 | DEBUG    | report:load_filenames:16 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:47:29.883 | DEBUG    | report:load_filenames:33 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:50:30.650 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:50:30.650 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:50:50.313 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:50:50.314 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:51:20.349 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:51:20.349 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:51:20.349 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_january_2018.xlsx ...
+2022-07-15 10:51:20.349 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_march_2018.xlsx ...
+2022-07-15 10:51:26.163 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:51:26.163 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:51:26.163 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_january_2018.xlsx...
+2022-07-15 10:51:26.163 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_march_2018.xlsx...
+2022-07-15 10:51:38.881 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:51:38.881 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:51:38.881 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_january_2018.xlsx -...
+2022-07-15 10:51:38.881 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_march_2018.xlsx -...
+2022-07-15 10:51:43.717 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:51:43.717 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:51:43.717 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_january_2018.xlsx ...
+2022-07-15 10:51:43.717 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_march_2018.xlsx ...
+2022-07-15 10:51:48.215 | DEBUG    | report:load_filenames:17 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:51:48.215 | DEBUG    | report:load_filenames:34 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:51:48.216 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 10:51:48.216 | DEBUG    | report:load_sheets:38 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 10:53:57.025 | DEBUG    | report:load_filenames:18 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:53:57.025 | DEBUG    | report:load_filenames:35 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:53:57.025 | DEBUG    | report:load_sheets:39 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 10:53:57.089 | DEBUG    | report:load_sheets:39 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 10:57:53.766 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:57:53.766 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:57:53.766 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 10:58:02.658 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:58:02.658 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:58:02.658 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 10:58:02.729 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 10:58:27.679 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:58:27.679 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:58:27.679 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 10:58:27.752 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 10:59:15.760 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 10:59:15.760 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 10:59:15.760 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 10:59:15.829 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:00:38.847 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:00:38.847 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:00:38.848 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:00:47.056 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:00:47.057 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:00:47.057 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:02:04.020 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:02:04.020 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:02:04.020 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:02:33.876 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:02:33.876 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:02:33.876 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:03:17.761 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:03:17.762 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:03:17.762 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:03:27.510 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:03:27.510 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:03:27.510 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:06:08.632 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:06:08.633 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:06:08.633 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:06:38.360 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:06:38.360 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:06:38.361 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:06:44.143 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:06:44.143 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:06:44.143 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:07:30.772 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:07:30.772 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:07:30.773 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:07:41.203 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:07:41.204 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:07:41.204 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:08:48.804 | DEBUG    | report:load_filenames:19 - Loading valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:08:48.804 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:08:48.804 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:08:48.862 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:08:48.864 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:09:05.144 | DEBUG    | report:load_filenames:19 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:09:05.144 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:09:05.144 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:09:05.202 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:09:05.203 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:13:49.515 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:13:49.515 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:13:49.515 | DEBUG    | report:load_sheets:42 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:13:49.573 | DEBUG    | report:load_sheets:47 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:13:49.575 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:14:05.054 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:14:05.054 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:14:05.054 | DEBUG    | report:load_sheets:42 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:14:05.111 | DEBUG    | report:load_sheets:47 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:14:05.113 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:14:09.914 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:14:09.914 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:14:29.633 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:14:29.634 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:14:38.303 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:14:38.303 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:15:05.073 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:15:05.073 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:15:05.073 | ERROR    | report:log_summary:57 - load_sheets() must be run before logging
+2022-07-15 11:15:16.040 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:15:16.040 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:15:16.040 | ERROR    | report:log_summary:57 - load_sheets() must be run before logging
+2022-07-15 11:15:21.377 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:15:21.377 | DEBUG    | report:load_filenames:38 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:15:21.378 | DEBUG    | report:load_sheets:42 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:15:21.435 | DEBUG    | report:load_sheets:47 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:15:21.437 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:16:08.996 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:16:08.996 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:16:08.996 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:16:09.055 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:16:09.056 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:16:30.895 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:16:30.895 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:16:30.895 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:16:30.954 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:16:30.955 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:17:57.609 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:17:57.609 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:17:57.609 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:17:57.667 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:17:57.669 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:13.066 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:18:13.067 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:18:13.067 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:13.124 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:13.126 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:17.056 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:18:17.057 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:18:17.057 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:17.115 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:17.117 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:45.952 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:18:45.952 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:18:45.952 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:46.009 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:46.011 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:53.882 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:18:53.882 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:18:53.882 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:53.966 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:18:53.968 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:19:34.143 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:19:34.144 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:19:34.144 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:19:34.201 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:19:34.203 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:18.593 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:20:18.593 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:20:18.593 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:18.650 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:18.652 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:23.130 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:20:23.130 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:20:23.131 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:23.189 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:23.191 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:45.078 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:20:45.078 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:20:45.078 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:45.136 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:20:45.138 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:28.596 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:21:28.597 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:21:28.597 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:28.655 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:28.657 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:49.073 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:21:49.074 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:21:49.074 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:49.131 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:49.133 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:57.979 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:21:57.979 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:21:57.979 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:58.036 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:21:58.038 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:22:04.220 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:22:04.220 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:22:04.220 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:22:04.279 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:22:04.281 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:22:32.471 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:22:32.471 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:22:32.471 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:22:32.529 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:22:32.531 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:04.645 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:23:04.645 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:23:04.645 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:04.702 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:04.704 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:11.873 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:23:11.874 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:23:11.874 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:11.934 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:11.935 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:24.229 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:23:24.229 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:23:24.229 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:24.287 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:23:24.289 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:26:31.391 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:26:31.392 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:26:31.392 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:26:31.451 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:26:31.453 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:01.884 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:27:01.884 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:27:01.884 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:01.942 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:01.944 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:08.671 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:27:08.671 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:27:08.671 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:08.728 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:08.730 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:21.279 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:27:21.279 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:27:21.279 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:21.338 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:21.340 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:52.639 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:27:52.639 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:27:52.639 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:52.696 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:27:52.698 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:29:04.114 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:29:04.115 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:29:04.115 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:29:04.172 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:29:04.174 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:29:26.112 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:29:26.112 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:29:26.112 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:29:26.171 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:29:26.172 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:30:57.711 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:30:57.711 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:30:57.711 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:30:57.770 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:30:57.771 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:15.899 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:31:15.899 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:31:15.899 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:15.957 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:15.959 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:32.545 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:31:32.546 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:31:32.546 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:32.604 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:32.605 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:39.172 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:31:39.172 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:31:39.172 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:39.230 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:31:39.232 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:32:31.402 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:32:31.402 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:32:31.402 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:32:31.461 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:32:31.462 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:32:50.272 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:32:50.272 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:32:50.272 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:32:50.330 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:32:50.332 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:07.850 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:33:07.851 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:33:07.851 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:07.908 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:07.910 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:22.375 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:33:22.375 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:33:22.375 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:22.433 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:22.435 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:31.620 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:33:31.620 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:33:31.620 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:31.678 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:33:31.680 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:34:12.872 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:34:12.873 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:34:12.873 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:34:12.931 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:34:12.933 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:34:33.188 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:34:33.188 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:34:33.189 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:34:33.247 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:34:33.248 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:35:29.289 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:35:29.290 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:35:29.290 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:35:29.348 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:35:29.350 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:35:52.660 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:35:52.660 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:35:52.660 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:35:52.718 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:35:52.720 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:36:26.392 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:36:26.392 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:36:26.392 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:36:26.452 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:36:26.454 | DEBUG    | report:load_sheets:49 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:38:14.333 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:38:14.333 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:38:14.333 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:38:14.391 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:38:14.391 | DEBUG    | report:load_sheets:46 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:38:14.392 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:38:14.393 | DEBUG    | report:load_sheets:51 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:03.258 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:39:03.258 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:39:03.259 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:03.315 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:21.988 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:39:21.989 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:39:21.989 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:22.047 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:22.047 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:22.049 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:22.049 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:42.295 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:39:42.295 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:39:42.295 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:42.352 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:42.353 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:42.354 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:42.354 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:39:42.355 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:39:42.400 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:39:42.400 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:39:42.402 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:39:42.402 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:08.852 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:40:08.853 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:40:08.853 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:08.912 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:08.912 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:08.914 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:08.914 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:08.914 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:08.960 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:08.961 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:08.963 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:08.963 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:17.624 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:40:17.624 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:40:17.625 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:17.682 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:17.683 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:17.684 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:17.684 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:17.685 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:17.731 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:17.731 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:17.733 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:17.733 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:21.563 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:40:21.563 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:40:21.563 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:21.621 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:21.621 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:21.623 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:21.623 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:21.623 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:21.669 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:21.669 | DEBUG    | report:load_sheets:47 - Logging Summary from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:21.671 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:21.671 | DEBUG    | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:38.741 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:40:38.741 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:40:38.741 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:38.799 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:38.799 | INFO     | report:load_sheets:47 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:38.801 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:38.801 | INFO     | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:40:38.801 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:38.847 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:38.847 | INFO     | report:load_sheets:47 - Logging Summary from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:38.849 | DEBUG    | report:load_sheets:51 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:40:38.849 | INFO     | report:load_sheets:53 - Logging Promoter Score from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:41:25.235 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:41:25.236 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:41:25.236 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:25.294 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:44.996 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:41:44.996 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:41:44.996 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:45.054 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:45.055 | INFO     | report:log_summary:65 - Logging Summary from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:45.056 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:45.056 | INFO     | report:log_promoter_score:73 - Logging Promoter Score from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:41:45.057 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:41:45.104 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:41:45.104 | INFO     | report:log_summary:65 - Logging Summary from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:41:45.106 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:41:45.106 | INFO     | report:log_promoter_score:73 - Logging Promoter Score from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:44:25.533 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:44:25.533 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:44:25.533 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:44:25.591 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:44:25.591 | INFO     | report:log_summary:65 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:44:25.593 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:44:25.593 | INFO     | report:log_promoter_score:73 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:44:25.593 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:44:25.639 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:44:25.639 | INFO     | report:log_summary:65 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:44:25.641 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:44:25.642 | INFO     | report:log_promoter_score:73 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:08.386 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:45:08.386 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:45:08.387 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:08.445 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:08.445 | INFO     | report:log_summary:65 - Logging Summary for expedia_report_monthly_january_2018.xlsx from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:08.446 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:08.447 | INFO     | report:log_promoter_score:73 - Logging Summary for expedia_report_monthly_january_2018.xlsx from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:08.447 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:08.493 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:08.493 | INFO     | report:log_summary:65 - Logging Summary for expedia_report_monthly_march_2018.xlsx from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:08.495 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:08.495 | INFO     | report:log_promoter_score:73 - Logging Summary for expedia_report_monthly_march_2018.xlsx from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:21.211 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:45:21.211 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:45:21.211 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:21.269 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:21.269 | INFO     | report:log_summary:65 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:21.271 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:21.271 | INFO     | report:log_promoter_score:73 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:21.271 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:21.317 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:21.317 | INFO     | report:log_summary:65 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:21.319 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:21.319 | INFO     | report:log_promoter_score:73 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:43.027 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:45:43.027 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:45:43.027 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:43.084 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:43.084 | INFO     | report:log_summary:65 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:43.086 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:43.086 | INFO     | report:log_promoter_score:73 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:45:43.086 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:43.134 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:43.134 | INFO     | report:log_summary:65 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:43.138 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:45:43.138 | INFO     | report:log_promoter_score:73 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 11:46:03.068 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:46:03.068 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:46:03.068 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:46:03.126 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:46:03.126 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:46:03.128 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:46:03.128 | INFO     | report:log_promoter_score:74 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:47:02.327 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:47:02.327 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:47:02.327 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:47:02.387 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:47:02.387 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:47:02.401 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:47:02.401 | INFO     | report:log_promoter_score:74 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:00.798 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:48:00.798 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:48:00.798 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:00.855 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:00.855 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:00.857 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:00.857 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:08.231 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:48:08.232 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:48:08.232 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:08.290 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:08.290 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:12.068 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:48:12.068 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:48:12.068 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:12.126 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:12.126 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:12.128 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:48:12.128 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:30.205 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:49:30.205 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:49:30.205 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:30.263 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:30.263 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:39.891 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:49:39.891 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:49:39.891 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:39.949 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:39.949 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:48.131 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:49:48.131 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:49:48.131 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:48.190 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:48.190 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:59.084 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:49:59.084 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:49:59.084 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:59.142 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:59.142 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:59.144 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:49:59.144 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:25.769 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:52:25.769 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:52:25.769 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:25.827 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:25.828 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:25.830 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:25.830 | INFO     | report:log_promoter_score:74 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:34.850 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:52:34.850 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:52:34.850 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:34.908 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:34.908 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:34.910 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:34.910 | INFO     | report:log_promoter_score:74 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:47.022 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:52:47.022 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:52:47.022 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:47.081 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:47.081 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:51.057 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:52:51.057 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:52:51.057 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:51.115 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:51.115 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:51.118 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:52:51.118 | INFO     | report:log_promoter_score:74 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:40.726 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:54:40.726 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:54:40.726 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:40.785 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:40.785 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:40.798 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:40.798 | INFO     | report:log_promoter_score:73 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:48.792 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:54:48.792 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:54:48.792 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:48.851 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:48.851 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:48.864 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:54:48.864 | INFO     | report:log_promoter_score:74 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:07.439 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:55:07.440 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:55:07.440 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:07.498 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:07.498 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:07.522 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:07.522 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:27.976 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:55:27.977 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:55:27.977 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:28.035 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:28.035 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:28.038 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:28.038 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:33.051 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:55:33.051 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:55:33.051 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:33.109 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:33.109 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:33.116 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:33.116 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:46.631 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:55:46.631 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:55:46.631 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:46.689 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:46.689 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:46.692 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:46.692 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:52.881 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:55:52.881 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:55:52.881 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:52.940 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:52.940 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:52.964 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:55:52.964 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:56:51.394 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:56:51.394 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:56:51.394 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:56:51.452 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:56:51.452 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:56:51.478 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:56:51.479 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:10.630 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:57:10.630 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:57:10.630 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:10.688 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:10.688 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:14.005 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:57:14.006 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:57:14.006 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:14.063 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:14.063 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:14.076 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:14.076 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:19.066 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:57:19.067 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:57:19.067 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:19.125 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:19.125 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:21.857 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:57:21.857 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:57:21.857 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:21.915 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:21.915 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:21.943 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:21.943 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:35.672 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:57:35.673 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:57:35.673 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:35.730 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:35.730 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:35.733 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:35.733 | INFO     | report:log_promoter_score:75 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:49.516 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:57:49.517 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:57:49.517 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:49.575 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:57:49.575 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:05.618 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:58:05.618 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:58:05.618 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:05.677 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:05.677 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:19.201 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:58:19.201 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:58:19.201 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:19.259 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:19.259 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:19.262 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:19.262 | INFO     | report:log_promoter_score:76 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:34.612 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:58:34.613 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:58:34.613 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:34.671 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:34.671 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:34.673 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:58:34.674 | INFO     | report:log_promoter_score:76 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:31.869 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:59:31.870 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:59:31.870 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:31.927 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:31.927 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:31.930 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:31.930 | INFO     | report:log_promoter_score:77 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:39.158 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:59:39.158 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:59:39.158 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:39.216 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:39.216 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:39.219 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:39.219 | INFO     | report:log_promoter_score:78 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:46.341 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 11:59:46.341 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 11:59:46.341 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:46.400 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:46.400 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:46.403 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 11:59:46.403 | INFO     | report:log_promoter_score:78 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:02.137 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:00:02.137 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:00:02.137 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:02.198 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:02.198 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:02.201 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:02.201 | INFO     | report:log_promoter_score:78 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:34.597 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:00:34.598 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:00:34.598 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:34.655 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:34.655 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:34.658 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:34.658 | INFO     | report:log_promoter_score:79 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:57.437 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:00:57.437 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:00:57.437 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:57.495 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:57.496 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:57.498 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:00:57.498 | INFO     | report:log_promoter_score:79 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:01:11.766 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:01:11.766 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:01:11.766 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:01:11.827 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:01:11.828 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:01:11.831 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:01:11.831 | INFO     | report:log_promoter_score:78 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:07:34.392 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:07:34.392 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:07:34.392 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:07:34.450 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:07:34.450 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:07:34.452 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:07:34.452 | INFO     | report:log_promoter_score:80 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:24.311 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:09:24.311 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:09:24.311 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:24.369 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:24.369 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:24.369 | INFO     | report:log_summary:77 - date
+2022-07-15 12:09:24.370 | INFO     | report:log_summary:78 - Calls offered: 16915
+2022-07-15 12:09:24.370 | INFO     | report:log_summary:79 - Abandon after 30s: 0.0232
+2022-07-15 12:09:24.370 | INFO     | report:log_summary:80 - FCR: 0.865
+2022-07-15 12:09:24.370 | INFO     | report:log_summary:81 - DSAT: 0.142
+2022-07-15 12:09:24.370 | INFO     | report:log_summary:82 - CSAT: 0.783
+2022-07-15 12:09:24.372 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:24.372 | INFO     | report:log_promoter_score:86 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:42.182 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:09:42.182 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:09:42.183 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:42.240 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:42.240 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:42.240 | INFO     | report:log_summary:77 - Date: ['01', '2018']
+2022-07-15 12:09:42.241 | INFO     | report:log_summary:78 - Calls offered: 16915
+2022-07-15 12:09:42.241 | INFO     | report:log_summary:79 - Abandon after 30s: 0.0232
+2022-07-15 12:09:42.241 | INFO     | report:log_summary:80 - FCR: 0.865
+2022-07-15 12:09:42.241 | INFO     | report:log_summary:81 - DSAT: 0.142
+2022-07-15 12:09:42.241 | INFO     | report:log_summary:82 - CSAT: 0.783
+2022-07-15 12:09:42.243 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:42.243 | INFO     | report:log_promoter_score:86 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:44.919 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:09:44.919 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:09:44.919 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:44.976 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:76 - Date: ['01', '2018']
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:78 - Abandon after 30s: 0.0232
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:79 - FCR: 0.865
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:80 - DSAT: 0.142
+2022-07-15 12:09:44.977 | INFO     | report:log_summary:81 - CSAT: 0.783
+2022-07-15 12:09:44.979 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:09:44.979 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:10:16.418 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:10:16.418 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:10:16.418 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:10:16.477 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:10:16.477 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:10:16.477 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:10:16.477 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:10:16.477 | INFO     | report:log_summary:78 - Abandon after 30s: 0.0232
+2022-07-15 12:10:16.477 | INFO     | report:log_summary:79 - FCR: 0.865
+2022-07-15 12:10:16.477 | INFO     | report:log_summary:80 - DSAT: 0.142
+2022-07-15 12:10:16.478 | INFO     | report:log_summary:81 - CSAT: 0.783
+2022-07-15 12:10:16.479 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:10:16.479 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:03.835 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:11:03.835 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:11:03.835 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:03.893 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:03.893 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:03.893 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:11:03.893 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:11:03.893 | INFO     | report:log_summary:78 - Abandon after 30s: 0.0232
+2022-07-15 12:11:03.893 | INFO     | report:log_summary:79 - FCR: 86.5%
+2022-07-15 12:11:03.894 | INFO     | report:log_summary:80 - DSAT: 14.2%
+2022-07-15 12:11:03.894 | INFO     | report:log_summary:81 - CSAT: 78.3%
+2022-07-15 12:11:03.895 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:03.895 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:19.701 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:11:19.702 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:11:19.702 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:19.759 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:19.759 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:19.760 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:11:19.760 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:11:19.760 | INFO     | report:log_summary:78 - Abandon after 30s: 2.32%
+2022-07-15 12:11:19.760 | INFO     | report:log_summary:79 - FCR: 86.5%
+2022-07-15 12:11:19.760 | INFO     | report:log_summary:80 - DSAT: 14.2%
+2022-07-15 12:11:19.760 | INFO     | report:log_summary:81 - CSAT: 78.3%
+2022-07-15 12:11:19.762 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:11:19.762 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:12:35.840 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:12:35.840 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:12:35.840 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:12:35.898 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:12:35.898 | INFO     | report:log_summary:65 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:12:35.899 | INFO     | report:log_summary:74 - Date: 01-2018
+2022-07-15 12:12:35.899 | INFO     | report:log_summary:75 - Calls offered: 16915
+2022-07-15 12:12:35.899 | INFO     | report:log_summary:76 - Abandon after 30s: 2.32%
+2022-07-15 12:12:35.899 | INFO     | report:log_summary:77 - FCR: 86.5%
+2022-07-15 12:12:35.899 | INFO     | report:log_summary:78 - DSAT: 14.2%
+2022-07-15 12:12:35.899 | INFO     | report:log_summary:79 - CSAT: 78.3%
+2022-07-15 12:12:35.901 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:12:35.901 | INFO     | report:log_promoter_score:83 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:12:35.901 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:12:35.947 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:65 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:74 - Date: 03-2018
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:75 - Calls offered: 22343
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:76 - Abandon after 30s: 3.05%
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:77 - FCR: 86.0%
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:78 - DSAT: 18.0%
+2022-07-15 12:12:35.948 | INFO     | report:log_summary:79 - CSAT: 74.4%
+2022-07-15 12:12:35.951 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:12:35.951 | INFO     | report:log_promoter_score:83 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:13:17.883 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:13:17.883 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:13:17.883 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:13:17.941 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:13:17.941 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:13:17.941 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:13:17.941 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:13:17.942 | INFO     | report:log_summary:78 - Abandon after 30s: 2.32%
+2022-07-15 12:13:17.942 | INFO     | report:log_summary:79 - FCR: 86.5%
+2022-07-15 12:13:17.942 | INFO     | report:log_summary:80 - DSAT: 14.2%
+2022-07-15 12:13:17.942 | INFO     | report:log_summary:81 - CSAT: 78.3%
+2022-07-15 12:13:17.944 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:13:17.944 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:14:21.576 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:14:21.576 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:14:21.576 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:14:21.636 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:14:21.636 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:14:21.636 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:14:21.636 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:14:21.636 | INFO     | report:log_summary:78 - Abandon after 30s: 2.32%
+2022-07-15 12:14:21.637 | INFO     | report:log_summary:79 - FCR: 86.5%
+2022-07-15 12:14:21.637 | INFO     | report:log_summary:80 - DSAT: 14.2%
+2022-07-15 12:14:21.637 | INFO     | report:log_summary:81 - CSAT: 78.3%
+2022-07-15 12:14:21.638 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:14:21.638 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:15:14.922 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:15:14.923 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:15:14.923 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:15:14.980 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:15:14.980 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:15:14.981 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:15:14.981 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:15:14.981 | INFO     | report:log_summary:78 - Abandon after 30s: 2.32%
+2022-07-15 12:15:14.981 | INFO     | report:log_summary:79 - FCR: 86.5%
+2022-07-15 12:15:14.981 | INFO     | report:log_summary:80 - DSAT: 14.2%
+2022-07-15 12:15:14.981 | INFO     | report:log_summary:81 - CSAT: 78.3%
+2022-07-15 12:15:14.983 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:15:14.983 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:16:12.022 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:16:12.022 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:16:12.022 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:16:12.080 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:16:12.080 | INFO     | report:log_summary:67 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:16:12.081 | INFO     | report:log_summary:76 - Date: 01-2018
+2022-07-15 12:16:12.081 | INFO     | report:log_summary:77 - Calls offered: 16915
+2022-07-15 12:16:12.081 | INFO     | report:log_summary:78 - Abandon after 30s: 2.32%
+2022-07-15 12:16:12.081 | INFO     | report:log_summary:79 - FCR: 86.5%
+2022-07-15 12:16:12.081 | INFO     | report:log_summary:80 - DSAT: 14.2%
+2022-07-15 12:16:12.081 | INFO     | report:log_summary:81 - CSAT: 78.3%
+2022-07-15 12:16:12.083 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:16:12.083 | INFO     | report:log_promoter_score:85 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:18:11.981 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:18:11.982 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:18:11.982 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:18:12.042 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:18:12.042 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:18:12.043 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:18:12.043 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:18:12.043 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:18:12.043 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:18:12.043 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:18:12.043 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:18:12.045 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:18:12.045 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:20:00.126 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:20:00.127 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:20:00.127 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:20:00.185 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:20:00.185 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:20:00.185 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:20:00.185 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:20:00.185 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:20:00.186 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:20:00.186 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:20:00.186 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:20:00.187 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:20:00.188 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:20:00.189 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:20:00.189 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:21:36.510 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:21:36.511 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:21:36.511 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:21:36.569 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:21:36.569 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:21:36.570 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:21:36.570 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:21:36.570 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:21:36.570 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:21:36.570 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:21:36.570 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:21:36.572 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:21:36.572 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:21:36.573 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:21:36.573 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:22:05.301 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:22:05.301 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:22:05.301 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:05.359 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:05.359 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:05.359 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:22:05.359 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:22:05.359 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:22:05.359 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:22:05.359 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:22:05.360 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:22:05.361 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:05.361 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:05.362 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:22:05.362 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:22:05.363 | INFO     | report:log_promoter_score:95 - Promoters: Good 256
+2022-07-15 12:22:05.363 | INFO     | report:log_promoter_score:99 - Base Size: 425
+2022-07-15 12:22:05.363 | INFO     | report:log_promoter_score:100 - Base Size: 425
+2022-07-15 12:22:39.654 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:22:39.654 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:22:39.654 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:39.711 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:39.711 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:39.712 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:22:39.712 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:22:39.712 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:22:39.712 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:22:39.712 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:22:39.712 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:22:39.714 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:39.714 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:22:39.715 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:22:39.715 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:22:39.715 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good
+2022-07-15 12:22:39.715 | INFO     | report:log_promoter_score:99 - Base Size: 425
+2022-07-15 12:22:39.715 | INFO     | report:log_promoter_score:100 - Base Size: 425
+2022-07-15 12:24:16.893 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:24:16.893 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:24:16.893 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:24:16.950 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:24:16.951 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:24:16.953 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:24:16.953 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:24:16.954 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:24:16.954 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:24:16.954 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good
+2022-07-15 12:24:16.954 | INFO     | report:log_promoter_score:99 - Passives: 86 Good
+2022-07-15 12:24:16.955 | INFO     | report:log_promoter_score:103 - Detractors: 86
+2022-07-15 12:25:16.146 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:25:16.146 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:25:16.146 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:25:16.204 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:25:16.204 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:25:16.206 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:25:16.206 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:25:16.207 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:25:16.207 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:25:16.207 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good
+2022-07-15 12:27:22.857 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:27:22.857 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:27:22.857 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:27:22.914 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:27:22.915 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:27:22.917 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:27:22.917 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:27:22.918 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:27:22.918 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:27:22.918 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good
+2022-07-15 12:27:22.918 | INFO     | report:log_promoter_score:99 - Passives: 86 Bad
+2022-07-15 12:27:22.919 | INFO     | report:log_promoter_score:103 - Detractors: 86 Bad
+2022-07-15 12:28:06.361 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:28:06.361 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:28:06.361 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:06.419 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:28:06.419 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:28:06.421 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:06.421 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:06.422 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:28:06.422 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:28:06.422 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good 64.3%
+2022-07-15 12:28:06.422 | INFO     | report:log_promoter_score:100 - Passives: 86 Bad
+2022-07-15 12:28:06.423 | INFO     | report:log_promoter_score:104 - Detractors: 86 Bad
+2022-07-15 12:28:42.978 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:28:42.978 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:28:42.978 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:43.038 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:43.038 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:43.038 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:28:43.038 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:28:43.038 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:28:43.038 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:28:43.038 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:28:43.039 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:28:43.040 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:43.040 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:28:43.041 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:28:43.042 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:28:43.042 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good 64.3%
+2022-07-15 12:28:43.042 | INFO     | report:log_promoter_score:100 - Passives: 86 Bad 20.1%
+2022-07-15 12:28:43.042 | INFO     | report:log_promoter_score:105 - Detractors: 86 Bad 20.1%
+2022-07-15 12:30:31.146 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:30:31.147 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:30:31.147 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:31.204 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:75 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:79 - Date: 01-2018
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:80 - Calls offered: 16915
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:81 - Abandon after 30s: 2.32%
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:82 - FCR: 86.5%
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:83 - DSAT: 14.2%
+2022-07-15 12:30:31.205 | INFO     | report:log_summary:84 - CSAT: 78.3%
+2022-07-15 12:30:31.207 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:31.207 | INFO     | report:log_promoter_score:88 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:31.208 | INFO     | report:log_promoter_score:93 - Date: 01-2018
+2022-07-15 12:30:31.208 | INFO     | report:log_promoter_score:94 - Base Size: 425
+2022-07-15 12:30:31.208 | INFO     | report:log_promoter_score:95 - Promoters: 256 Good 64.3%
+2022-07-15 12:30:31.208 | INFO     | report:log_promoter_score:100 - Passives: 86 Bad 20.1%
+2022-07-15 12:30:31.209 | INFO     | report:log_promoter_score:105 - Detractors: 86 Bad 20.1%
+2022-07-15 12:30:31.209 | INFO     | report:log_promoter_score:111 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:30:31.209 | INFO     | report:log_promoter_score:112 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:30:31.209 | INFO     | report:log_promoter_score:113 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:30:50.758 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:30:50.759 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:30:50.759 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:50.816 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:50.816 | INFO     | report:log_summary:73 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:50.816 | INFO     | report:log_summary:77 - Date: 01-2018
+2022-07-15 12:30:50.816 | INFO     | report:log_summary:78 - Calls offered: 16915
+2022-07-15 12:30:50.816 | INFO     | report:log_summary:79 - Abandon after 30s: 2.32%
+2022-07-15 12:30:50.817 | INFO     | report:log_summary:80 - FCR: 86.5%
+2022-07-15 12:30:50.817 | INFO     | report:log_summary:81 - DSAT: 14.2%
+2022-07-15 12:30:50.817 | INFO     | report:log_summary:82 - CSAT: 78.3%
+2022-07-15 12:30:50.818 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:50.818 | INFO     | report:log_promoter_score:86 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:30:50.819 | INFO     | report:log_promoter_score:90 - Date: 01-2018
+2022-07-15 12:30:50.819 | INFO     | report:log_promoter_score:91 - Base Size: 425
+2022-07-15 12:30:50.819 | INFO     | report:log_promoter_score:92 - Promoters: 256 Good 64.3%
+2022-07-15 12:30:50.819 | INFO     | report:log_promoter_score:97 - Passives: 86 Bad 20.1%
+2022-07-15 12:30:50.820 | INFO     | report:log_promoter_score:102 - Detractors: 86 Bad 20.1%
+2022-07-15 12:30:50.820 | INFO     | report:log_promoter_score:108 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:30:50.820 | INFO     | report:log_promoter_score:109 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:30:50.820 | INFO     | report:log_promoter_score:110 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:30:50.820 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:30:50.865 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:73 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:77 - Date: 03-2018
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:78 - Calls offered: 22343
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:79 - Abandon after 30s: 3.05%
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:80 - FCR: 86.0%
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:81 - DSAT: 18.0%
+2022-07-15 12:30:50.866 | INFO     | report:log_summary:82 - CSAT: 74.4%
+2022-07-15 12:30:50.868 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:30:50.869 | INFO     | report:log_promoter_score:86 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:30:50.870 | INFO     | report:log_promoter_score:90 - Date: 03-2018
+2022-07-15 12:32:33.657 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:32:33.658 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:32:33.658 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:32:33.715 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:32:33.715 | INFO     | report:log_summary:78 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:32:33.715 | INFO     | report:log_summary:82 - Date: 01-2018
+2022-07-15 12:32:33.716 | INFO     | report:log_summary:83 - Calls offered: 16915
+2022-07-15 12:32:33.716 | INFO     | report:log_summary:84 - Abandon after 30s: 2.32%
+2022-07-15 12:32:33.716 | INFO     | report:log_summary:85 - FCR: 86.5%
+2022-07-15 12:32:33.716 | INFO     | report:log_summary:86 - DSAT: 14.2%
+2022-07-15 12:32:33.716 | INFO     | report:log_summary:87 - CSAT: 78.3%
+2022-07-15 12:32:33.718 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:32:33.718 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:32:33.718 | INFO     | report:log_promoter_score:95 - Date: 01-2018
+2022-07-15 12:32:33.718 | INFO     | report:log_promoter_score:96 - Base Size: 425
+2022-07-15 12:32:33.719 | INFO     | report:log_promoter_score:97 - Promoters: 256 Good 64.3%
+2022-07-15 12:32:33.719 | INFO     | report:log_promoter_score:102 - Passives: 86 Bad 20.1%
+2022-07-15 12:32:33.719 | INFO     | report:log_promoter_score:107 - Detractors: 86 Bad 20.1%
+2022-07-15 12:32:33.719 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:32:33.719 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:32:33.719 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:32:33.719 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:32:33.765 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:78 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:82 - Date: 03-2018
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:83 - Calls offered: 22343
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:84 - Abandon after 30s: 3.05%
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:85 - FCR: 86.0%
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:86 - DSAT: 18.0%
+2022-07-15 12:32:33.765 | INFO     | report:log_summary:87 - CSAT: 74.4%
+2022-07-15 12:32:33.767 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:32:33.768 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:32:33.769 | INFO     | report:log_promoter_score:95 - Date: 03-2018
+2022-07-15 12:33:07.699 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:33:07.699 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:33:07.699 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:07.757 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:07.757 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:07.758 | INFO     | report:log_summary:83 - Date: 01-2018
+2022-07-15 12:33:07.758 | INFO     | report:log_summary:84 - Calls offered: 16915
+2022-07-15 12:33:07.758 | INFO     | report:log_summary:85 - Abandon after 30s: 2.32%
+2022-07-15 12:33:07.758 | INFO     | report:log_summary:86 - FCR: 86.5%
+2022-07-15 12:33:07.758 | INFO     | report:log_summary:87 - DSAT: 14.2%
+2022-07-15 12:33:07.758 | INFO     | report:log_summary:88 - CSAT: 78.3%
+2022-07-15 12:33:07.760 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:07.760 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:96 - Date: 01-2018
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:97 - Base Size: 425
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:98 - Promoters: 256 Good 64.3%
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:103 - Passives: 86 Bad 20.1%
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:108 - Detractors: 86 Bad 20.1%
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:33:07.761 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:33:07.761 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:07.809 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:07.809 | INFO     | report:log_summary:79 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:07.809 | INFO     | report:log_summary:83 - Date: 03-2018
+2022-07-15 12:33:07.809 | INFO     | report:log_summary:84 - Calls offered: 22343
+2022-07-15 12:33:07.810 | INFO     | report:log_summary:85 - Abandon after 30s: 3.05%
+2022-07-15 12:33:07.810 | INFO     | report:log_summary:86 - FCR: 86.0%
+2022-07-15 12:33:07.810 | INFO     | report:log_summary:87 - DSAT: 18.0%
+2022-07-15 12:33:07.810 | INFO     | report:log_summary:88 - CSAT: 74.4%
+2022-07-15 12:33:07.812 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:07.812 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:07.814 | INFO     | report:log_promoter_score:96 - Date: 03-2018
+2022-07-15 12:33:31.551 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:33:31.551 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:33:31.551 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:31.609 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:31.609 | INFO     | report:log_summary:78 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:31.609 | INFO     | report:log_summary:82 - Date: 01-2018
+2022-07-15 12:33:31.609 | INFO     | report:log_summary:83 - Calls offered: 16915
+2022-07-15 12:33:31.609 | INFO     | report:log_summary:84 - Abandon after 30s: 2.32%
+2022-07-15 12:33:31.609 | INFO     | report:log_summary:85 - FCR: 86.5%
+2022-07-15 12:33:31.609 | INFO     | report:log_summary:86 - DSAT: 14.2%
+2022-07-15 12:33:31.610 | INFO     | report:log_summary:87 - CSAT: 78.3%
+2022-07-15 12:33:31.611 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:31.611 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:31.612 | INFO     | report:log_promoter_score:95 - Date: 01-2018
+2022-07-15 12:33:31.612 | INFO     | report:log_promoter_score:96 - Base Size: 425
+2022-07-15 12:33:31.612 | INFO     | report:log_promoter_score:97 - Promoters: 256 Good 64.3%
+2022-07-15 12:33:31.612 | INFO     | report:log_promoter_score:102 - Passives: 86 Bad 20.1%
+2022-07-15 12:33:31.612 | INFO     | report:log_promoter_score:107 - Detractors: 86 Bad 20.1%
+2022-07-15 12:33:31.612 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:33:31.613 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:33:31.613 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:33:31.613 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:31.659 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:78 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:82 - Date: 03-2018
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:83 - Calls offered: 22343
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:84 - Abandon after 30s: 3.05%
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:85 - FCR: 86.0%
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:86 - DSAT: 18.0%
+2022-07-15 12:33:31.659 | INFO     | report:log_summary:87 - CSAT: 74.4%
+2022-07-15 12:33:31.661 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:31.662 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:31.663 | INFO     | report:log_promoter_score:95 - Date: 03-2018
+2022-07-15 12:33:39.279 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:33:39.280 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:33:39.280 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:39.342 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:39.342 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:39.343 | INFO     | report:log_summary:83 - Date: 01-2018
+2022-07-15 12:33:39.343 | INFO     | report:log_summary:84 - Calls offered: 16915
+2022-07-15 12:33:39.343 | INFO     | report:log_summary:85 - Abandon after 30s: 2.32%
+2022-07-15 12:33:39.343 | INFO     | report:log_summary:86 - FCR: 86.5%
+2022-07-15 12:33:39.343 | INFO     | report:log_summary:87 - DSAT: 14.2%
+2022-07-15 12:33:39.343 | INFO     | report:log_summary:88 - CSAT: 78.3%
+2022-07-15 12:33:39.345 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:39.345 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:96 - Date: 01-2018
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:97 - Base Size: 425
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:98 - Promoters: 256 Good 64.3%
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:103 - Passives: 86 Bad 20.1%
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:108 - Detractors: 86 Bad 20.1%
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:33:39.346 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:33:39.346 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:39.393 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:39.393 | INFO     | report:log_summary:79 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:39.394 | INFO     | report:log_summary:83 - Date: 03-2018
+2022-07-15 12:33:39.394 | INFO     | report:log_summary:84 - Calls offered: 22343
+2022-07-15 12:33:39.394 | INFO     | report:log_summary:85 - Abandon after 30s: 3.05%
+2022-07-15 12:33:39.394 | INFO     | report:log_summary:86 - FCR: 86.0%
+2022-07-15 12:33:39.394 | INFO     | report:log_summary:87 - DSAT: 18.0%
+2022-07-15 12:33:39.394 | INFO     | report:log_summary:88 - CSAT: 74.4%
+2022-07-15 12:33:39.396 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:39.396 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:33:39.398 | INFO     | report:log_promoter_score:96 - Date: 03-2018
+2022-07-15 12:34:40.769 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:34:40.770 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:34:40.770 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:34:40.828 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:78 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:82 - Date: 01-2018
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:83 - Calls offered: 16915
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:84 - Abandon after 30s: 2.32%
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:85 - FCR: 86.5%
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:86 - DSAT: 14.2%
+2022-07-15 12:34:40.829 | INFO     | report:log_summary:87 - CSAT: 78.3%
+2022-07-15 12:34:40.831 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:34:40.831 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:95 - Date: 01-2018
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:96 - Base Size: 425
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:97 - Promoters: 256 Good 64.3%
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:102 - Passives: 86 Bad 20.1%
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:107 - Detractors: 86 Bad 20.1%
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:34:40.832 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:34:40.833 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:34:40.833 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:34:40.879 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:34:40.879 | INFO     | report:log_summary:78 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:34:40.879 | INFO     | report:log_summary:82 - Date: 03-2018
+2022-07-15 12:34:40.879 | INFO     | report:log_summary:83 - Calls offered: 22343
+2022-07-15 12:34:40.880 | INFO     | report:log_summary:84 - Abandon after 30s: 3.05%
+2022-07-15 12:34:40.880 | INFO     | report:log_summary:85 - FCR: 86.0%
+2022-07-15 12:34:40.880 | INFO     | report:log_summary:86 - DSAT: 18.0%
+2022-07-15 12:34:40.880 | INFO     | report:log_summary:87 - CSAT: 74.4%
+2022-07-15 12:34:40.882 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:34:40.882 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:34:40.884 | INFO     | report:log_promoter_score:95 - Date: 03-2018
+2022-07-15 12:35:52.686 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:35:52.686 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:35:52.686 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:35:52.743 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:83 - Date: 01-2018
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:84 - Calls offered: 16915
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:85 - Abandon after 30s: 2.32%
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:86 - FCR: 86.5%
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:87 - DSAT: 14.2%
+2022-07-15 12:35:52.744 | INFO     | report:log_summary:88 - CSAT: 78.3%
+2022-07-15 12:35:52.746 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:35:52.746 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:35:52.747 | INFO     | report:log_promoter_score:96 - Date: 01-2018
+2022-07-15 12:35:52.747 | INFO     | report:log_promoter_score:97 - Base Size: 425
+2022-07-15 12:35:52.747 | INFO     | report:log_promoter_score:98 - Promoters: 256 Good 64.3%
+2022-07-15 12:35:52.747 | INFO     | report:log_promoter_score:103 - Passives: 86 Bad 20.1%
+2022-07-15 12:35:52.747 | INFO     | report:log_promoter_score:108 - Detractors: 86 Bad 20.1%
+2022-07-15 12:35:52.747 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:35:52.748 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:35:52.748 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:35:52.748 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:35:52.795 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:35:52.795 | INFO     | report:log_summary:79 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:35:52.796 | INFO     | report:log_summary:83 - Date: 03-2018
+2022-07-15 12:35:52.796 | INFO     | report:log_summary:84 - Calls offered: 22343
+2022-07-15 12:35:52.796 | INFO     | report:log_summary:85 - Abandon after 30s: 3.05%
+2022-07-15 12:35:52.796 | INFO     | report:log_summary:86 - FCR: 86.0%
+2022-07-15 12:35:52.796 | INFO     | report:log_summary:87 - DSAT: 18.0%
+2022-07-15 12:35:52.796 | INFO     | report:log_summary:88 - CSAT: 74.4%
+2022-07-15 12:35:52.798 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:35:52.798 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:35:52.800 | INFO     | report:log_promoter_score:96 - Date: 03-2018
+2022-07-15 12:36:12.511 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:36:12.511 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:36:12.511 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:12.593 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:12.593 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:23.806 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:36:23.806 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:36:23.806 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:23.863 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:23.863 | INFO     | report:log_summary:79 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:23.864 | INFO     | report:log_summary:83 - Date: 01-2018
+2022-07-15 12:36:23.864 | INFO     | report:log_summary:84 - Calls offered: 16915
+2022-07-15 12:36:23.864 | INFO     | report:log_summary:85 - Abandon after 30s: 2.32%
+2022-07-15 12:36:23.864 | INFO     | report:log_summary:86 - FCR: 86.5%
+2022-07-15 12:36:23.864 | INFO     | report:log_summary:87 - DSAT: 14.2%
+2022-07-15 12:36:23.864 | INFO     | report:log_summary:88 - CSAT: 78.3%
+2022-07-15 12:36:23.866 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:23.866 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:96 - Date: 01-2018
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:97 - Base Size: 425
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:98 - Promoters: 256 Good 64.3%
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:103 - Passives: 86 Bad 20.1%
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:108 - Detractors: 86 Bad 20.1%
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:114 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:115 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:36:23.867 | INFO     | report:log_promoter_score:116 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:36:23.867 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:36:23.913 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:36:23.913 | INFO     | report:log_summary:79 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:36:23.914 | INFO     | report:log_summary:83 - Date: 03-2018
+2022-07-15 12:36:23.914 | INFO     | report:log_summary:84 - Calls offered: 22343
+2022-07-15 12:36:23.914 | INFO     | report:log_summary:85 - Abandon after 30s: 3.05%
+2022-07-15 12:36:23.914 | INFO     | report:log_summary:86 - FCR: 86.0%
+2022-07-15 12:36:23.914 | INFO     | report:log_summary:87 - DSAT: 18.0%
+2022-07-15 12:36:23.914 | INFO     | report:log_summary:88 - CSAT: 74.4%
+2022-07-15 12:36:23.916 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:36:23.916 | INFO     | report:log_promoter_score:92 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:36:23.919 | INFO     | report:log_promoter_score:96 - Date: 03-2018
+2022-07-15 12:37:02.010 | DEBUG    | report:load_filenames:21 - Checking for valid files in directory: /home/wyatt/Projects/assignments/assignment_5
+2022-07-15 12:37:02.011 | DEBUG    | report:load_filenames:36 - found valid files: ['expedia_report_monthly_january_2018.xlsx', 'expedia_report_monthly_march_2018.xlsx']
+2022-07-15 12:37:02.011 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:02.068 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:78 - Logging Summary for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:82 - Date: 01-2018
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:83 - Calls offered: 16915
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:84 - Abandon after 30s: 2.32%
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:85 - FCR: 86.5%
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:86 - DSAT: 14.2%
+2022-07-15 12:37:02.069 | INFO     | report:log_summary:87 - CSAT: 78.3%
+2022-07-15 12:37:02.071 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:02.071 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['01', '2018'] from expedia_report_monthly_january_2018.xlsx
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:95 - Date: 01-2018
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:96 - Base Size: 425
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:97 - Promoters: 256 Good 64.3%
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:102 - Passives: 86 Bad 20.1%
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:107 - Detractors: 86 Bad 20.1%
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 39.7%
+2022-07-15 12:37:02.072 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 78.3%
+2022-07-15 12:37:02.073 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 14.2%
+2022-07-15 12:37:02.073 | DEBUG    | report:load_sheets:40 - Opening expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:02.119 | DEBUG    | report:load_sheets:45 - loaded Summary Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:78 - Logging Summary for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:82 - Date: 03-2018
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:83 - Calls offered: 22343
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:84 - Abandon after 30s: 3.05%
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:85 - FCR: 86.0%
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:86 - DSAT: 18.0%
+2022-07-15 12:37:02.120 | INFO     | report:log_summary:87 - CSAT: 74.4%
+2022-07-15 12:37:02.123 | DEBUG    | report:load_sheets:50 - loaded VOC Rolling MoM for expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:91 - Logging Promoter Score for ['03', '2018'] from expedia_report_monthly_march_2018.xlsx
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:95 - Date: 03-2018
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:96 - Base Size: 508
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:97 - Promoters: 279 Good 54.900000000000006%
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:102 - Passives: 21 Bad 17.1%
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:107 - Detractors: 33 Bad 26.8%
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:113 - Overall NPS: AARP Total 28.74%
+2022-07-15 12:37:02.123 | INFO     | report:log_promoter_score:114 - Sat with Agent: AARP Total 74.4%
+2022-07-15 12:37:02.124 | INFO     | report:log_promoter_score:115 - DSat with Agent: AARP Total 18.0%

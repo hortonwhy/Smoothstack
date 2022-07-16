@@ -1,0 +1,12 @@
+from report import Report
+
+
+def main():
+    path = "/home/wyatt/Projects/assignments/assignment_5"
+    report = Report(path)
+    report.print_pathname()
+    report.load_sheets()
+
+
+if __name__ == "__main__":
+    main()
