@@ -3,15 +3,23 @@ import re
 import pandas as pd
 from loguru import logger
 from openpyxl import load_workbook
+from tkinter import Tk, filedialog
 
 
 class Report:
-    def __init__(self, dirpath="./"):
-        self.dirpath = dirpath
+    def __init__(self, ):
+        self.dirpath = os.getcwd()
         self.filenames = []
         logger.add("out.log", backtrace=True, diagnose=True)
         self.summary_df = None
         self.voc_df = None
+
+    def query_path(self):
+        root = Tk()
+        root.withdraw()
+        root.attributes('-topmost', True)
+        directory = filedialog.askdirectory()
+        self.dirpath = directory
 
     def get_filenames(self):
         return self.filenames
@@ -33,6 +41,9 @@ class Report:
         for filepath in listdir:
             if re.search(r"([a-zA-Z]:(\\w+)*\\[a-zA-Z0_9]+)?.xlsx", filepath):
                 self.filenames.append(filepath)
+        if len(self.filenames) < 1:
+            logger.error("No valid files found, exiting...")
+            return
         logger.debug("found valid files: {}", self.filenames)
 
     def load_sheets(self):
