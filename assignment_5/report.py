@@ -46,8 +46,9 @@ class Report:
 
     def load_sheets(self):
         for workbook in self.filenames:
-            logger.debug("Opening {}", workbook)
-            wb = load_workbook(workbook)
+            filepath = os.path.join(self.dirpath, workbook)
+            logger.debug("Opening {}", filepath)
+            wb = load_workbook(filepath)
 
             ws = wb[wb.sheetnames[0]]  # Summary Rolling MoM
             summary_df = (pd.DataFrame(list(ws.values)), workbook)
@@ -92,13 +93,16 @@ class Report:
                 date_row = date_row.split("-")[0:2][::-1]  # ['01', '2018']
                 if date_row == date or str(row[0]).lower() == date_text:
                     return row  # found row
-        raise IndexError(logger.error("given date: {} could not be found", date))
+        logger.error("given date: {} could not be found", date)
+        return None
 
     def log_summary(self, workbook, summary_df):
         (date, date_text) = self.format_date(summary_df[1])
         logger.info("Logging Summary for {} from {}", date, workbook)
         df = summary_df[0]
         row = self.find_df_row(df, date, date_text)
+        if row is None:
+            return
 
         logger.info("Date: {}-{}", date[0], date[1])
         logger.info("Calls offered: {}", row[1])
@@ -113,6 +117,8 @@ class Report:
         df = voc_df[0]
         df = df.T  # transpose
         row = self.find_df_row(df, date, date_text)
+        if row is None:
+            return
         logger.info("Date: {}-{}", date[0], date[1])
         logger.info("Base Size: {}", row[2])
         logger.info(
