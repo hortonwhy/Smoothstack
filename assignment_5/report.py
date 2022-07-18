@@ -7,17 +7,15 @@ from tkinter import Tk, filedialog
 
 
 class Report:
-    def __init__(self, ):
+    def __init__(self,):
         self.dirpath = os.getcwd()
         self.filenames = []
         logger.add("out.log", backtrace=True, diagnose=True)
-        self.summary_df = None
-        self.voc_df = None
 
     def query_path(self):
         root = Tk()
         root.withdraw()
-        root.attributes('-topmost', True)
+        root.attributes("-topmost", True)
         directory = filedialog.askdirectory()
         self.dirpath = directory
 
@@ -52,14 +50,14 @@ class Report:
             wb = load_workbook(workbook)
 
             ws = wb[wb.sheetnames[0]]  # Summary Rolling MoM
-            self.summary_df = (pd.DataFrame(list(ws.values)), workbook)
+            summary_df = (pd.DataFrame(list(ws.values)), workbook)
             logger.debug("loaded Summary Rolling MoM for {}", workbook)
-            self.log_summary(workbook)
+            self.log_summary(workbook, summary_df)
 
             ws = wb[wb.sheetnames[1]]  # VOC Rolling MoM
-            self.voc_df = (pd.DataFrame(list(ws.values)), workbook)
+            voc_df = (pd.DataFrame(list(ws.values)), workbook)
             logger.debug("loaded VOC Rolling MoM for {}", workbook)
-            self.log_promoter_score(workbook)
+            self.log_promoter_score(workbook, voc_df)
 
     def format_date(self, date):
         # format Date Block to easily match with Workbook style
@@ -95,10 +93,10 @@ class Report:
                 if date_row == date or str(row[0]).lower() == date_text:
                     return row  # found row
 
-    def log_summary(self, workbook):
-        (date, date_text) = self.format_date(self.summary_df[1])
+    def log_summary(self, workbook, summary_df):
+        (date, date_text) = self.format_date(summary_df[1])
         logger.info("Logging Summary for {} from {}", date, workbook)
-        df = self.summary_df[0]
+        df = summary_df[0]
         row = self.find_df_row(df, date, date_text)
 
         logger.info("Date: {}-{}", date[0], date[1])
@@ -108,10 +106,10 @@ class Report:
         logger.info("DSAT: {}%", row[4] * 100)
         logger.info("CSAT: {}%", row[5] * 100)
 
-    def log_promoter_score(self, workbook):
-        (date, date_text) = self.format_date(self.summary_df[1])
+    def log_promoter_score(self, workbook, voc_df):
+        (date, date_text) = self.format_date(voc_df[1])
         logger.info("Logging Promoter Score for {} from {}", date, workbook)
-        df = self.voc_df[0]
+        df = voc_df[0]
         df = df.T  # transpose
         row = self.find_df_row(df, date, date_text)
         logger.info("Date: {}-{}", date[0], date[1])
