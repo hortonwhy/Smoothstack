@@ -104,12 +104,15 @@ class Report:
         if row is None:
             return
 
-        logger.info("Date: {}-{}", date[0], date[1])
-        logger.info("Calls offered: {}", row[1])
-        logger.info("Abandon after 30s: {}%", f"{row[2] * 100:.4g}")
-        logger.info("FCR: {}%", f"{row[3] * 100:.4g}")
-        logger.info("DSAT: {}%", f"{row[4] * 100:.4g}")
-        logger.info("CSAT: {}%", f"{row[5] * 100:.4g}")
+        try:
+            logger.info("Date: {}-{}", date[0], date[1])
+            logger.info("Calls offered: {}", row[1])
+            logger.info("Abandon after 30s: {}%", f"{row[2] * 100:.4g}")
+            logger.info("FCR: {}%", f"{row[3] * 100:.4g}")
+            logger.info("DSAT: {}%", f"{row[4] * 100:.4g}")
+            logger.info("CSAT: {}%", f"{row[5] * 100:.4g}")
+        except Exception:
+            logger.error("Missing cell values from {}", workbook)
 
     def log_promoter_score(self, workbook, voc_df):
         (date, date_text) = self.format_date(voc_df[1])
@@ -119,24 +122,28 @@ class Report:
         row = self.find_df_row(df, date, date_text)
         if row is None:
             return
-        logger.info("Date: {}-{}", date[0], date[1])
-        logger.info("Base Size: {}", row[2])
-        logger.info(
-            "Promoters: {} {}%",
-            str(row[3]) + " Good" if row[3] > 200 else str(row[3]) + " Bad",
-            f"{row[4] * 100:.4g}",
-        )
-        logger.info(
-            "Passives: {} {}%",
-            str(row[5]) + " Good" if row[5] > 100 else str(row[5]) + " Bad",
-            f"{row[6] * 100:.4g}",
-        ),
-        logger.info(
-            "Detractors: {} {}%",
-            str(row[7]) + " Good" if row[7] > 100 else str(row[7]) + " Bad",
-            f"{row[8] * 100:.4g}",
-        ),
 
-        logger.info("Overall NPS: AARP Total {}%", f"{row[12] * 100:.4g}")
-        logger.info("Sat with Agent: AARP Total {}%", f"{row[15] * 100:.4g}")
-        logger.info("DSat with Agent: AARP Total {}%", f"{row[18] * 100:.4g}")
+        try:
+            logger.info("Date: {}-{}", date[0], date[1])
+            logger.info("Base Size: {}", row[2])
+            logger.info(
+                "Promoters: {} {}%",
+                str(row[3]) + " Good" if row[3] > 200 else str(row[3]) + " Bad",
+                f"{row[4] * 100:.4g}",
+            )
+            logger.info(
+                "Passives: {} {}%",
+                str(row[5]) + " Good" if row[5] > 100 else str(row[5]) + " Bad",
+                f"{row[6] * 100:.4g}",
+            ),
+            logger.info(
+                "Detractors: {} {}%",
+                str(row[7]) + " Good" if row[7] > 100 else str(row[7]) + " Bad",
+                f"{row[8] * 100:.4g}",
+            ),
+
+            logger.info("Overall NPS: AARP Total {}%", f"{row[12] * 100:.4g}")
+            logger.info("Sat with Agent: AARP Total {}%", f"{row[15] * 100:.4g}")
+            logger.info("DSat with Agent: AARP Total {}%", f"{row[18] * 100:.4g}")
+        except Exception:
+            logger.error("Missing cell values from {}", workbook)
