@@ -92,6 +92,7 @@ class Report:
                 date_row = date_row.split("-")[0:2][::-1]  # ['01', '2018']
                 if date_row == date or str(row[0]).lower() == date_text:
                     return row  # found row
+        raise IndexError(logger.error("given date: {} could not be found", date))
 
     def log_summary(self, workbook, summary_df):
         (date, date_text) = self.format_date(summary_df[1])
@@ -101,10 +102,10 @@ class Report:
 
         logger.info("Date: {}-{}", date[0], date[1])
         logger.info("Calls offered: {}", row[1])
-        logger.info("Abandon after 30s: {}%", row[2] * 100)
-        logger.info("FCR: {}%", row[3] * 100)
-        logger.info("DSAT: {}%", row[4] * 100)
-        logger.info("CSAT: {}%", row[5] * 100)
+        logger.info("Abandon after 30s: {}%", f"{row[2] * 100:.4g}")
+        logger.info("FCR: {}%", f"{row[3] * 100:.4g}")
+        logger.info("DSAT: {}%", f"{row[4] * 100:.4g}")
+        logger.info("CSAT: {}%", f"{row[5] * 100:.4g}")
 
     def log_promoter_score(self, workbook, voc_df):
         (date, date_text) = self.format_date(voc_df[1])
@@ -117,19 +118,19 @@ class Report:
         logger.info(
             "Promoters: {} {}%",
             str(row[3]) + " Good" if row[3] > 200 else str(row[3]) + " Bad",
-            row[4] * 100,
+            f"{row[4] * 100:.4g}",
         )
         logger.info(
             "Passives: {} {}%",
             str(row[5]) + " Good" if row[5] > 100 else str(row[5]) + " Bad",
-            row[6] * 100,
+            f"{row[6] * 100:.4g}",
         ),
         logger.info(
             "Detractors: {} {}%",
             str(row[7]) + " Good" if row[7] > 100 else str(row[7]) + " Bad",
-            row[8] * 100,
+            f"{row[8] * 100:.4g}",
         ),
 
-        logger.info("Overall NPS: AARP Total {}%", row[12] * 100)
-        logger.info("Sat with Agent: AARP Total {}%", row[15] * 100)
-        logger.info("DSat with Agent: AARP Total {}%", row[18] * 100)
+        logger.info("Overall NPS: AARP Total {}%", f"{row[12] * 100:.4g}")
+        logger.info("Sat with Agent: AARP Total {}%", f"{row[15] * 100:.4g}")
+        logger.info("DSat with Agent: AARP Total {}%", f"{row[18] * 100:.4g}")
